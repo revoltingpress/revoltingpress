@@ -1,6 +1,5 @@
 ### Revolting Press 
 Design, publishing and commons. Marxist projects geared towards making revolutionary theory accessible through print, illustration, public discussions and occasionally cinema nights.
-Run by T. M. Cabrera. 👋
 
 <!--
 **revoltingpress/revoltingpress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
