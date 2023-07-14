@@ -1,5 +1,5 @@
 ### Revolting Press 
-Design, publishing and commons. Marxist projects geared towards making revolutionary theory accessible through print design, illustrations, public discussions and occasionally cinema nights.
+Design, publishing and commons. Marxist projects geared towards making revolutionary theory accessible through print, illustration, public discussions and occasionally cinema nights.
 Run by T. M. Cabrera. 👋
 
 <!--
